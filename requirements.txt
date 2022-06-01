@@ -1,3 +1,4 @@
+voila==0.2.6
 absl-py==0.13.0
 dectree==0.0.6
 ipython==7.20.0
@@ -16,4 +17,3 @@ plotly==5.3.1
 seaborn==0.11.2
 sklearn==0.0
 statsmodels==0.12.2
-voila==0.2.6
