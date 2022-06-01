@@ -16,4 +16,5 @@ plotly==5.3.1
 seaborn==0.11.2
 sklearn==0.0
 statsmodels==0.12.2
+viola==0.3.8
 voila==0.2.16
