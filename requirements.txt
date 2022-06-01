@@ -17,4 +17,3 @@ seaborn==0.11.2
 sklearn==0.0
 statsmodels==0.12.2
 voila==0.2.16
-viola==0.3.8
