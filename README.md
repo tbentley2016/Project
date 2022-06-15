@@ -1,7 +1,9 @@
 # Using Machine Learning to Predict Stroke
 
-Objective:
-The objective of this project is to explore stroke data such that a prediction model can be created. Factors which highly correlate to having a stroke will be detected to conclude which factors to most be aware of for stroke prediction. 
+Objectives:
+- Create a publiclly accessible website which allows users to have an end-to-end walk through a data science project.
+- Explore stroke data such that a prediction model can be created, with the best performing model indetified.
+- Factors which highly correlate to having a stroke will be detected to conclude which factors to most be aware of for stroke prediction. 
 
 
 This GitHub repository contains:
