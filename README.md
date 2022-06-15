@@ -1,6 +1,7 @@
 # Using Machine Learning to Predict Stroke
 
-Objectives:
+This is a repository for a Capstone Project. 
+The project's objectives are:
 - Create a publiclly accessible website which allows users to have an end-to-end walk through a data science project.
 - Explore stroke data such that a prediction model can be created, with the best performing model indetified.
 - Factors which highly correlate to having a stroke will be detected to conclude which factors to most be aware of for stroke prediction. 
