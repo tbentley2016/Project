@@ -6,6 +6,7 @@ The project's objectives are:
 - Explore stroke data such that a prediction model can be created, with the best performing model indetified.
 - Factors which highly correlate to having a stroke will be detected to conclude which factors to most be aware of for stroke prediction. 
 
+Video presentation link: https://vimeo.com/725088025 
 
 This GitHub repository contains:
  - The file titled "Using_Machine_Learning_To_Predict_Stroke.ipynb" is a Jupyter Notebook using Python code. This contains all code used to upload the data, clean the data, eploratory data analysis, create and evaluate models. Additionally, there are interactive features within the code, allowing for users to click buttons to display different charts or information. 
